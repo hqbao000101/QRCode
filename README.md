@@ -1,2 +1,2 @@
 # QRCode
-Front-end Mentor challenge 02
+Front-end Mentor Challenges_02
